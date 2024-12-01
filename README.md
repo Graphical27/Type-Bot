@@ -51,6 +51,9 @@ pip install selenium pyautogui
 This bot is for educational purposes. Using automated tools on typing test websites may violate their terms of service.
 
 ## 🖼️ Bot Demo
-![TypeBot Demo](https://placeholder.com/350x200)
+
+[![Watch the video](https://img.youtube.com/vi/4D5ENieQMNI/0.jpg)](https://www.youtube.com/watch?v=4D5ENieQMNI)
+
+
 
 
